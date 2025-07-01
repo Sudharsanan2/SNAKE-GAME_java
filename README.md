@@ -46,7 +46,7 @@ If the snake hits itself or the wall → game over.
 
 # 3 Resource Files Needed:
 
-Make sure you have the following image files in your resources folder:
+To have the following image files in your resources folder:
 
 dot.png – snake body segment
 
